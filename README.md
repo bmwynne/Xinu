@@ -1,2 +1,6 @@
-# Xinu
-This is a repository for development and testing of Comer's Xinu. 
+# Welcome to Xinu
+
+# Build instructions
+
+Copy the file config/Makedefs.EXAMPLE to config/Makedefs and make appropriate changes if necessary.
+
